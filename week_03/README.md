@@ -1,3 +1,7 @@
-## 디버그 로그 대사 출력 영상
-https://github.com/user-attachments/assets/2b384bc7-f8f4-4405-b83f-6977dcbdf777
+## 디버그 로그 대사 출력 Video
+
+
+https://github.com/user-attachments/assets/eb29b71f-e61f-46a9-9f3d-07d020ef2844
+
+
 
